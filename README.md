@@ -338,3 +338,6 @@ Take the number below and copy it at the end. E.g.. https://www.skyrc.com/files/
 373. 100228_Instruction Manual_251120_V.12 .pdf  
 374. 600163%E8%AF%B4%E6%98%8E%E4%B9%A6_V.13_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.pdf  
 375. 7504-2073-01_600163%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf  
+
+
+Python Script from https://github.com/tojatomasz/skyrc-downloads
